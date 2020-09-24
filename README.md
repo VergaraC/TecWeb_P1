@@ -1,5 +1,7 @@
 # TecWeb_P1
-Projeto
+##Projeto 1 da matéria de Tecnologias Web
+
+Para criar o banco de dados configurado nos arquivos Java sigam os comandos a baixo:
 
 CREATE DATABASE projeto1;
 USE projeto1;
