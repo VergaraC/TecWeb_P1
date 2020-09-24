@@ -1,1 +1,8 @@
 # TecWeb_P1
+Projeto
+
+CREATE DATABASE projeto1;
+USE projeto1;
+CREATE TABLE T(id INT(255) NOT NULL PRIMARY KEY AUTO_INCREMENT,tarefa VARCHAR(255),nome VARCHAR(255),data DATE(),categoria VARCHAR(255);
+
+
