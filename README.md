@@ -1,5 +1,5 @@
 # TecWeb_P1
-##Projeto 1 da matéria de Tecnologias Web
+## Projeto 1 da matéria de Tecnologias Web
 
 Para criar o banco de dados configurado nos arquivos Java sigam os comandos a baixo:
 
